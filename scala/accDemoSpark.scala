@@ -20,7 +20,7 @@ object accDemoSpark {
 
     }
 
-    val df=spark.read.json("C:\\Users\\as5272\\OneDrive - Lennox International, Inc\\Documents\\blogspot\\df_add\\input.json")
+    val df=spark.read.json("inputfile")
 
     df.show()
 
