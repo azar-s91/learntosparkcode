@@ -1,0 +1,3 @@
+﻿PartitionDate,Status,request
+2020-06-30,Internal Error,"{""Response"":{""MessageId"" : 15432 }}"
+2020-06-30,Success,"{""Response"":{""MessageId"" : 15432,""Latitude"":""-176.2989"",""longitude"":""7.3614"" }}"
