@@ -1,0 +1,3 @@
+stock_number,stock_name,stock_price,stock_qty,date
+1001,amzn,2052,3,2021-07-08
+1002,ggle,2325,6,2021-07-08

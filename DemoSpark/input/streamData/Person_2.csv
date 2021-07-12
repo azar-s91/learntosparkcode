@@ -1,0 +1,4 @@
+stock_number,stock_name,stock_price,stock_qty,date
+1003,Msoft,1834.0,10,2021-07-08
+1004,LNX,232.34,32,2021-07-08
+1005,FBOOK,987.34,70,2021-07-08
